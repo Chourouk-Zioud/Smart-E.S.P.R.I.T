@@ -1,0 +1,12 @@
+1 fumee -- 1 1 1 
+1 fumee -- 1 1 2 
+1 fumee -- 1 1 3 
+1 fumee -- 1 1 4 
+1 fumee -- 1 1 5 
+2 fumee -- 1 7 1 
+2 fumee -- 1 7 2 
+2 fumee -- 1 7 3 
+2 fumee -- 1 7 4 
+2 fumee -- 1 7 5 
+1 mouvement -- 1 19 1 
+1 mouvement -- 1 19 3 

@@ -1,0 +1,8 @@
+048855 Fruits 0 00000000 Carrefour 1500 
+578345 Fruits 0 00000000 Carrefour 1500 
+523522 Fruits 0 00000000 Carrefour 1500 
+112222 Legumes 0 00000000 monoprix 1500 
+098900 Legumes 0 00000000 monoprix 1500 
+048776 Boissons 0 00000000 coca 1500 
+048005 Boissons 0 00000000 coca 1500 
+

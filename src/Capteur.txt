@@ -1,0 +1,11 @@
+A12 Mouvement 0 20 1 0
+A13 Fumee 0 20 1 0
+A14 Balance 0 20 1 0
+B1 Temperature 1 5 2 12
+C40 Temperature 3 12 3 11
+TNvsEGY Fumee 0 22 15 16
+10 Balance 2 12 11 12
+EGYvsTUN Fumee 1 20 15 16
+20 Balance 1 111111 1 1
+40 Mouvement 1 10 1 5
+A10 Debit_deau 1 11 1 4

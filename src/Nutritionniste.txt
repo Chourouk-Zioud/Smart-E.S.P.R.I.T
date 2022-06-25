@@ -1,0 +1,11 @@
+5 1 lllfm pppm dmdm 
+1 0 soupe pate gateau 
+1 0 soupe pate gateau 
+1 0 soupe pate gateau 
+2 0 AAAAA AAAA AAAA 
+2 0 AAAAA AAAA AAAA 
+5 1 222 kn kk 
+5 1 222 kn kk 
+6 2 000000 00000000000 000 
+6 2 000000 00000000000 000 
+3 0 testv fvdfv fvfdv 
